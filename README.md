@@ -45,7 +45,7 @@ receipt-analyzer/
 ## ⚡ Setup & Installation
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/receipt-analyzer.git
+git clone https://github.com/Varun1901/receipt-analyzer.git
 cd receipt-analyzer
 ```
 ### 2️⃣ Create Virtual Environment
